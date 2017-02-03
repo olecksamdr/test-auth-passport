@@ -1,0 +1,22 @@
+
+.login-methods-list {
+	list-style: none;
+	padding: 0;
+	display: block;
+	max-width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.login-methods-list li {
+	text-align: justify;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin-right: 100px;
+}
+
+.login-methods-list li img {
+	max-width: 100%;
+	height: auto;
+}
